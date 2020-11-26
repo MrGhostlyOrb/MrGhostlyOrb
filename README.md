@@ -2,6 +2,7 @@
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrghostlyorb&theme=graywhite&&langs_count=10)
+<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrghostlyorb&show_icons=true&theme=graywhite&line_height=20&count_private=true)
 
 <!--
