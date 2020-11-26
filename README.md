@@ -2,7 +2,7 @@
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thememorydealer&layout=compact&theme=graywhite&&langs_count=10)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thememorydealer&show_icons=true&theme=graywhite&line_height=20&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrghostlyorb&show_icons=true&theme=graywhite&line_height=20&count_private=true)
 
 <!--
 **MrGhostlyOrb/MrGhostlyOrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
