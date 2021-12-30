@@ -13,7 +13,7 @@ I'm a Computer Science student 🎓 from the University of East Anglia 🏛. I'm
 - 🛠 &nbsp; I’m currently working with Python, SharePoint, Java, Nodejs, React, <br /> Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Flutter.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mrghostlyorb).
-- 📫 &nbsp; How to reach me: benn.f.cooper@gmail.com.
+- 📫 &nbsp; How to reach me: ben.f.cooper@gmail.com.
 - 📝 &nbsp; Checkout my [CV](https://github.com/mrghostlyorb/mrghostlyorb/blob/master/ben_cooper_cv.pdf).
 
 ### My Absolute Favorites:
