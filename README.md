@@ -2,16 +2,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-cooper-4747b4195/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mrghostlyorb)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mrghostlyorb/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mrghostlyorb)
 
 ### Glad to see you here! &nbsp;
 
 I'm a Computer Science student 🎓 from the University of East Anglia 🏛. I'm a passionate learner who's always willing to learn. I love to guide and mentor newbies 👨🏻‍💻.
 
-[![](https://gitwar.herokuapp.com/badge?username=mrghostlyorb&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-### Talking about Personal Stuffs:
+### Personal Details:
 
 - 🛠 &nbsp; I’m currently working with Python, SharePoint, Java, Nodejs, React, <br /> Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Flutter.
