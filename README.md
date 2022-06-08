@@ -22,7 +22,7 @@ I'm a Computer Science student 🎓 from the University of East Anglia 🏛. I'm
 
 ### Languages and Tools:
 
-<img alt="Dark Badge (micro)" class="hidden dark:block" src="/users/MrGhostlyOrb/badges/micro">
+<img alt="Dark Badge (micro)" class="hidden dark:block" src="https://www.codewars.com/users/MrGhostlyOrb/badges/micro">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
