@@ -6,12 +6,12 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a Computer Science student 🎓 from the University of East Anglia 🏛. I'm a passionate learner who's always willing to learn. I love to guide and mentor newbies 👨🏻‍💻.
+I'm a Computer Science enthusiast 🎓. I'm a passionate learner who's always willing to learn. I love to guide and mentor newbies 👨🏻‍💻.
 
 ### Personal Details:
 
-- 🛠 &nbsp; I’m currently working with Python, SharePoint, Java, Nodejs, React, <br /> Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Flutter.
+- 🛠 &nbsp; I’m currently working with Python, SharePoint, Java, Nodejs, React, <br /> C#, C++, etc.
+- 🚀 &nbsp; I’m currently learning Flutter and OpenSCAD.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mrghostlyorb).
 - 📫 &nbsp; How to reach me: ben.f.cooper@gmail.com.
 - 📝 &nbsp; Checkout my [CV](https://github.com/MrGhostlyOrb/MrGhostlyOrb/blob/main/Ben_Cooper_CV.pdf).
