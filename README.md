@@ -15,7 +15,7 @@ I'm a Computer Science enthusiast 🎓. I'm a passionate learner who's always wi
 - 🚀 &nbsp; I’m currently learning Flutter and OpenSCAD.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mrghostlyorb).
 - 📫 &nbsp; How to reach me: ben.f.cooper@gmail.com.
-- 📝 &nbsp; Checkout my [CV](https://github.com/MrGhostlyOrb/MrGhostlyOrb/blob/main/Ben_Cooper_CV.pdf).
+- 📝 &nbsp; Checkout my [CV](https://github.com/MrGhostlyOrb/MrGhostlyOrb/blob/main/Ben_Cooper_RESUME.pdf).
 
 ### My Absolute Favorites:
 
